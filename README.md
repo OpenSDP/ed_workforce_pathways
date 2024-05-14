@@ -6,7 +6,7 @@ OpenSDP website at [opensdp.github.io/analysis](https://opensdp.github.io/analys
 
 
 This repository is organized in the following folder structure:
-- `code` contains the code for the analysis 
+- `code` contains the Stata code for the analysis 
 - `data_templates` contains templates with the data structure and contents necessary to complete the analyses
 - `docs` contains Education to Workforce Pathways Diagnostic guides
 
