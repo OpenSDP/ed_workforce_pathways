@@ -7,7 +7,7 @@ OpenSDP website at [opensdp.github.io/analysis](https://opensdp.github.io/analys
 
 This repository is organized in the following folder structure:
 - `code` contains the code for the analysis 
-- `data` contains templates with the data structure and contents necessary to complete the analyses
+- `data_templates` contains templates with the data structure and contents necessary to complete the analyses
 - `docs` contains Education to Workforce Pathways Diagnostic guides
 
 These materials were originally authored by Atticus Bolyard, Sue Dynarski, Jon Fullerton, Miriam Greenberg, Julia Lubner, Aleksei Opacic, Eric Taylor, and Rachel Worsham (listed alphabetically).
