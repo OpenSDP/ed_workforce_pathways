@@ -1,14 +1,12 @@
 # Strategic Data Project Education to Workforce Pathways Diagnostic Toolkit: Analytic code and guidance for using state longitudinal data to understand K12 student progression into postsecondary and the workforce. 
 This repository contains Stata code and example
-data to help education data analysts answer questions about education and workforce outcomes. 
-This material can also be accessed on the
-OpenSDP website at [opensdp.github.io/analysis](https://opensdp.github.io/analysis).
+data to help education data analysts answer questions about education and workforce outcomes.
 
 
 This repository is organized in the following folder structure:
 - `code` contains the Stata code for the analysis 
 - `data_templates` contains templates with the data structure and contents necessary to complete the analyses
-- `docs` contains Education to Workforce Pathways Diagnostic guides
+- `docs` contains Education to Workforce Pathways Diagnostic guides, which includes the Analysis Narrative, Technical Guide, and Diagnostic Overview
 
 These materials were originally authored by Atticus Bolyard, Sue Dynarski, Jon Fullerton, Miriam Greenberg, Julia Lubner, Aleksei Opacic, Eric Taylor, and Rachel Worsham (listed alphabetically).
 
