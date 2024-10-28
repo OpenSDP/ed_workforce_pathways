@@ -10,7 +10,7 @@ This repository is organized in the following folder structure:
 - `data_templates` contains templates with the data structure and contents necessary to complete the analyses
 - `docs` contains Education to Workforce Pathways Diagnostic guides, which includes the Analysis Narrative, Technical Guide, and Diagnostic Overview
 
-These materials were originally authored by Atticus Bolyard, Sue Dynarski, Jon Fullerton, Miriam Greenberg, Julia Lubner, Aleksei Opacic, Eric Taylor, and Rachel Worsham (listed alphabetically).
+These materials were originally authored by Atticus Bolyard, Lauren Dahlin, Sue Dynarski, Jon Fullerton, Miriam Greenberg, Julia Lubner, Aleksei Opacic, Eric Taylor, and Rachel Worsham (listed alphabetically).
 
 [OpenSDP](https://opensdp.github.io) is an online, public repository of analytic
 code, tools, and training intended to foster collaboration among education
