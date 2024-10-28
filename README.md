@@ -5,6 +5,7 @@ data to help education data analysts answer questions about education and workfo
 
 This repository is organized in the following folder structure:
 - `stata code` contains the Stata code for the analysis
+- `R code` contains the R code for the analysis
 - `mock data` contains the mock data for the analysis. The data provided in this repository is mock data and is intended solely for illustrative, educational, and testing purposes. It does not reflect real-world values or actual entities. Any resemblance to real individuals, companies, or actual data is purely coincidental.
 - `data_templates` contains templates with the data structure and contents necessary to complete the analyses
 - `docs` contains Education to Workforce Pathways Diagnostic guides, which includes the Analysis Narrative, Technical Guide, and Diagnostic Overview
