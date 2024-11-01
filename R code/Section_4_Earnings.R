@@ -22,6 +22,10 @@
 
 # load libraries
 rm(list = ls())
+install.packages("tidyverse")  # Collection of data science packages including ggplot2, dplyr, etc.
+install.packages("haven")      # For reading SPSS, Stata, and SAS files
+install.packages("rlang")      # For advanced R programming and language manipulation
+install.packages("extraDistr")
 library(tidyverse)
 library(haven)
 library(rlang)

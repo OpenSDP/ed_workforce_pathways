@@ -24,14 +24,18 @@
 
 # load libraries
 rm(list = ls())
+install.packages("tidyverse")  # Collection of data science packages including ggplot2, dplyr, etc.
+install.packages("haven")      # For reading SPSS, Stata, and SAS files
+install.packages("rlang")      # For advanced R programming and language manipulation
+install.packages("devtools")
+devtools::install_github("davidsjoberg/ggsankey")
 library(tidyverse)
 library(haven)
 library(rlang)
 library(ggsankey)
 library(ggplot2)
 library(tidyverse)
-install.packages("devtools")
-devtools::install_github("davidsjoberg/ggsankey")
+
 
 # set working directory
 setwd("workingdirectory")
