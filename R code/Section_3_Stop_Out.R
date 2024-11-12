@@ -118,7 +118,7 @@ for (var in vars) {
   
 # (2) Graph
   # note: change the title for this graph if you are measuring enrollment status at a time other than 6 years from college entry
-  p1_temp <- ggplot(out1_temp, aes(x = SEX, y = percent, fill = type)) +
+  p1_temp <- ggplot(out1_temp, aes(x = !!sym(var), y = percent, fill = type)) +
     geom_bar(stat = "identity", position = "stack") +
     scale_y_continuous(limits = c(-100, 100), labels = abs) +
     scale_fill_manual(values = cbPalette) +
